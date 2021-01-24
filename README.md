@@ -7,9 +7,21 @@ Later we used Teachable machine interface for the collected data samples and tra
 The model is then tested with random voice samples.
 Finally the model is ready to be exported to the game.
 
-# Youtube link   
 
-https://youtu.be/Az6ucRrvCLs
+
+# Here's the link to Machine Learning Model:  
+https://teachablemachine.withgoogle.com/models/KCoAO1AXn/
+
+
+# Youtube link   
+https://youtu.be/Az6ucRrvCLs  
+
+
+
+# Link to access the game  
+https://editor.p5js.org/19pa1a0495/sketches/LIdxRgI7X
+
+
 
 # References
 
